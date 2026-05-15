@@ -24,18 +24,6 @@ Our current research includes:
 - ADAS experimentation
 
 
-## Research Areas
-
-- Autonomous Systems
-- Vehicle Perception
-- Embedded Systems
-- Robotics
-- Sensor Fusion
-- Vehicle Intelligence
-- Real-Time Systems
-- Edge AI
-
-
 <div align="center">
 
 Perception • Intelligence • Autonomy
